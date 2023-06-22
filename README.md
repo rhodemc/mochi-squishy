@@ -23,7 +23,7 @@ To use this book search engine simply navigate to the deployed application and s
 
 ![Mochi Squishy - A Book Search Engine](./src/assets/images/mochi-squishy.png)
 
-[This is an external link to 'Mochi Squishy' hosted on Heroku](https://mochi-squishy.herokuapp.com/)
+[This is an external link to 'Mochi Squishy' hosted on Heroku](https://mochi-squishy-1a96e6205d2a.herokuapp.com/)
 
 ## Credits
 
